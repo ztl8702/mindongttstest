@@ -42,7 +42,7 @@ access_token = ddata['access_token']
 
 body = """<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="zh-HK">
 
-    <phoneme alphabet="ipa" ph="toù́̀"> tomato </phoneme>
+    <phoneme alphabet="ipa" ph="toù"> tomato </phoneme>
   
 
 </speak>"""
