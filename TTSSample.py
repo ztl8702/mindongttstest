@@ -42,8 +42,8 @@ access_token = ddata['access_token']
 
 body = """<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="zh-HK">
 <voice name="Microsoft Server Speech Text to Speech Voice (zh-HK, Danny, Apollo)">
-<prosody rate="x-slow">
-    <phoneme alphabet="ipa" ph="ma̋ ma ma̋̏ má̀́ de mà́ ma̋"> tomato </phoneme>
+<prosody rate="slow">
+    <phoneme alphabet="ipa" ph="pei fəŋ xɤ tʰai iɑŋ tsai tʂəŋ lun tɕiou tɕiŋ"> tomato </phoneme>
         </prosody>
     </voice>
 </speak>"""
